@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Marc Chevrette'
-SITENAME = u'Marc Chevrette'
+SITENAME = u'Marc G Chevrette'
 SITESUBTITLE = u'Mining Secondary Metabolism'
 SITEURL = 'http://chevrm.github.io'
 
@@ -49,7 +49,7 @@ This is also a placeholder.
 You guessed it.  This, too.
 </p>
 <p>
-You can find me on <a href='http://twitter.com/wildtypeMC'>twitter</a> and <a href='http://www.linkedin.com/in/chevrette'>LinkedIn</a>.  I have a sporadically active <a href='https://github.com/chevrm'>github</a> account. Feel free to contact me at chevrm (at) gmail (dot) com!
+You can find me on <a href='http://twitter.com/wildtypeMC'>twitter</a> and <a href='http://www.linkedin.com/in/chevrette'>linkedIn</a>.  I have a sporadically active <a href='https://github.com/chevrm'>github</a> account. Feel free to contact me at chevrm (at) gmail (dot) com!
 </p>
 '''}
 
