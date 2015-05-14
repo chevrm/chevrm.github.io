@@ -37,7 +37,7 @@ DEFAULT_PAGINATION = 5
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-LANDING_PAGE_ABOUT = {'title': 'Marc Chevrette', 'details':
+LANDING_PAGE_ABOUT = {'title': 'About Me', 'details':
 '''
 <p>
 This is a placeholder.
