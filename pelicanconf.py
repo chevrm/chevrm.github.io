@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Marc Chevrette'
-SITENAME = u'Marc G Chevrette'
+SITENAME = u'MG Chevrette'
 SITESUBTITLE = u'Mining Secondary Metabolism'
 SITEURL = 'http://chevrm.github.io'
 
