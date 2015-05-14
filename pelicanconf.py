@@ -57,7 +57,7 @@ These bacteria appear to be a) highly prolific in secondary metabolite capabilit
 Nature is spending a lot of energy to make these molecules, so it follows that they must be making them for a reason...and in a collaboration with the <a href='https://clardy.med.harvard.edu/'>Clardy Lab</a> at Harvard we hope to prove exactly that.
 </p>
 <p>
-You can find me on <a href='http://twitter.com/wildtypeMC'>twitter</a> and <a href='http://www.linkedin.com/in/chevrette'>linkedin</a>.  I have a sporadically active <a href='https://github.com/chevrm'>github</a> account, but typically you will have to ask me for my code. Do not be shy!  Feel free to contact me at chevrm (at) gmail (dot) com!
+You can find me reliably on <a href='http://twitter.com/wildtypeMC'>twitter</a> and <a href='http://www.linkedin.com/in/chevrette'>linkedin</a>.  I have a sporadically active <a href='https://github.com/chevrm'>github</a> account, but typically you will have to ask me for my code. Do not be shy!  Feel free to contact me at chevrm (at) gmail (dot) com!
 </p>
 '''}
 
