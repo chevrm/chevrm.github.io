@@ -57,5 +57,5 @@ You can find me on <a href='http://twitter.com/wildtypeMC'>twitter</a> and <a hr
 
 PROJECTS = [{'name': 'This is project 1',
                 'url': 'https://github.com/a;sldfjldfja;sjf',
-                'description': 'This is a desc for pro1'},
+                'description': 'This site is still under construction so it isnt wise to expect any of these links to work'},
             ]
