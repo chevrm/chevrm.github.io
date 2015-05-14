@@ -1,22 +1,10 @@
-{% extends 'base.html' %}
-
-{% block title %}{{page.title|striptags}} / {{SITENAME}}{% endblock %}
+{% extends "base.html" %}
+{% block title %}{{ page.title }}{% endblock %}
 {% block content %}
-    <div class="article-page">
-        <div class="span7 offset2">
-            <section>
-                <article>
-                    <header class="article">
-                        <h2>
-                            <a href="{{SITEURL}}/{{page.url}}" rel="bookmark">
-                                {{page.title}}
-                            </a>
-                        </h2>
-                    </header>
-
-                    {{page.content}}
-                </article>
-            </section>
-        </div>
-    </div>
+<section id="content" class="body">
+    <h1 class="entry-title">{{ page.title }}</h1>
+    {% import 'translations.html' as translations with context %}
+    {{ translations.translations_for(page) }}
+    {{ page.content }}
+</section>
 {% endblock %}

@@ -3,7 +3,7 @@
 use strict;
 use warnings;
 
-my $theme = undef;
+my $theme = './mct';
 my $com = "git commit -m 'autofired'";
 $com =~ s/autofired/$ARGV[0]/ if(@ARGV[0]);
 my @cmd = (
