@@ -40,7 +40,7 @@ DEFAULT_PAGINATION = 5
 LANDING_PAGE_ABOUT = {'title': 'Mining Secondary Metabolism', 'details':
 '''
 <p>
-I search for drugs.
+I sniff for drugs.
 </p>
 Bacteria, especially actinomycetes, have a reputation for biosynthesizing chemicals that are of clinical or biotechnological use.  Over half of the drugs approved by the FDA in the past decade are of natural origin and many more are synthetically derived from natural scaffolds.  I get my kicks from a) computationally mining genome data from these bacteria to find biosynthetic gene clusters (and predict their chemical products), b) understanding the regulation of these compounds (e.g. figuring out how to coax them to make the molecule when they don't natively produce under "normal" conditions), and c) developing methods for engineering the gene content of these clusters towards generating new and exciting compounds.
 </p>
