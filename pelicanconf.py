@@ -20,22 +20,15 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Currie Lab', 'http://currielab.wisc.edu/'),
+         ('Wisconsin Genetics', 'http://www.genetics.wisc.edu/'),
+         ('Warp Drive', 'http://www.warpdrivebio.com'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('twitter', 'http://www.twitter.com/wildtypeMC'),
+          ('linkedin', 'http://www.linkedin.com/in/chevrette'),)
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-
-## Extra theme vars
-SITELOGO = "nameheader.png"
-LINKEDIN_URL = "http://www.linkedin.com/in/chevrette"
-TWITTER_URL = "http://www.twitter.com/wildtypeMC"
-
