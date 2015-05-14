@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Marc Chevrette'
-SITENAME = u'MG Chevrette'
+AUTHOR = u'Marc G Chevrette'
+SITENAME = u'Marc G Chevrette'
 SITESUBTITLE = u'Mining Secondary Metabolism'
 SITEURL = 'http://chevrm.github.io'
 
