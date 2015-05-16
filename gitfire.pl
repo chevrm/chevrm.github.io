@@ -5,7 +5,7 @@ use warnings;
 
 my $theme = './elegant';
 my $com = "git commit -m 'autofired'";
-$com =~ s/autofired/$ARGV[0]/ if(@ARGV[0]);
+$com =~ s/autofired/$ARGV[0]/ if($ARGV[0]);
 my @cmd = (
 	"pelican -s pelicanconf.py -o ./ content",
 	"git add .",
