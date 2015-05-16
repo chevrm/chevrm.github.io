@@ -19,6 +19,6 @@ my @cmd = (
 );
 $cmd[0] .= " -t $theme" if($theme);
 foreach (@cmd){
-	print "\n$_...";
+	print "\n$_...\n";
 	system("$_");
 }
