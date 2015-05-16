@@ -3,6 +3,7 @@
 use strict;
 use warnings;
 
+system("mkdir content") unless(-d content);
 my $theme = './elegant';
 my ($sec,$min,$hour,$mday,$mon,$year,$wday,$yday,$isdst) = localtime(time);
 $year += 1900;
