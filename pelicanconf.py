@@ -64,7 +64,10 @@ You can find me reliably on <a href='http://twitter.com/wildtypeMC'>twitter</a> 
 </p>
 '''}
 
-PROJECTS = [{'name': 'My CV',
+PROJECTS = [	{'name': 'My CV',
                 'url': 'https://github.com/chevrm/cv/raw/master/ChevretteCV.pdf',
                 'description': 'PDF download of my CV.'},
-            ]
+		{'name': 'Video: Leaf-Cutter Ants',
+		'url': 'https://www.youtube.com/watch?v=Xxnmh4IDYaU',
+		'description': 'A brief video from the NSF outlining major areas of research in the Currie Lab.'},
+]
