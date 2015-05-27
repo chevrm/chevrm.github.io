@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Marc G Chevrette'
-SITENAME = u'Marc G Chevrette'
+SITENAME = u'Marc Chevrette'
 SITESUBTITLE = u'Mining Secondary Metabolism'
 SITEURL = 'http://chevrm.github.io'
 
@@ -40,7 +40,7 @@ DEFAULT_PAGINATION = 5
 LANDING_PAGE_ABOUT = {'title': 'Mining Secondary Metabolism', 'details':
 '''
 <p>
-I sniff around for drugs.
+I dig around for drugs.
 </p>
 Bacteria, especially actinomycetes, have a reputation for biosynthesizing chemicals that are of clinical or biotechnological use.  Over half of the drugs approved by the FDA in the past decade are of natural origin and many more are synthetically derived from natural scaffolds.  I get my kicks from a) computationally mining genome data from these bacteria to find biosynthetic gene clusters (and predict their chemical products), b) understanding the regulation of these compounds (e.g. figuring out how to coax them to produce molecule when they don't natively or under "normal" conditions), and c) developing methods of engineering the gene content of these clusters towards generating new and exciting compounds.
 </p>
@@ -64,9 +64,12 @@ You can find me reliably on <a href='http://twitter.com/wildtypeMC'>twitter</a> 
 </p>
 '''}
 
-PROJECTS = [	{'name': 'My CV',
+PROJECTS = [	{'name': 'CV',
                 'url': 'https://github.com/chevrm/cv/raw/master/ChevretteCV.pdf',
                 'description': 'PDF download of my CV.'},
+		{'name': 'Google Scholar',
+		'url': 'https://scholar.google.com/citations?user=VX3Laf8AAAAJ&hl=en',
+		'description': 'Links to my publications.'},
 		{'name': 'Video: Leaf-Cutter Ants',
 		'url': 'https://www.youtube.com/watch?v=Xxnmh4IDYaU',
 		'description': 'A brief video from the NSF outlining major areas of research in the Currie Lab.'},
