@@ -64,7 +64,13 @@ You can find me reliably on <a href='http://twitter.com/wildtypeMC'>twitter</a> 
 </p>
 '''}
 
-PROJECTS = [	{'name': 'CV',
+PROJECTS = [	{'name': 'Twitter',
+		'url': 'http://twitter.com/wildtypeMC',
+		'description': ''},
+		{'name': 'LinkedIn',
+		'url': 'http://www.linkedin.com/in/chevrette',
+		'description': ''},
+		{'name': 'CV',
                 'url': 'https://github.com/chevrm/cv/raw/master/ChevretteCV.pdf',
                 'description': 'PDF download of my CV.'},
 		{'name': 'Google Scholar',
@@ -73,4 +79,10 @@ PROJECTS = [	{'name': 'CV',
 		{'name': 'Video: Leaf-Cutter Ants',
 		'url': 'https://www.youtube.com/watch?v=Xxnmh4IDYaU',
 		'description': 'A brief video from the NSF outlining major areas of research in the Currie Lab.'},
+		{'name': 'Currie Lab Homepage',
+		'url': 'http://currielab.wisc.edu/',
+		'description': ''},
+		{'name': 'Warp Drive Bio',
+		'url': 'http://www.warpdrivebio.com/',
+		'description': ''},
 ]
