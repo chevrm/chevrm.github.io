@@ -14,7 +14,7 @@ my $com = "git commit -m 'autofired$stamp'";
 $com =~ s/autofired$stamp/$ARGV[0]/ if($ARGV[0]);
 my @cmd = (
 	"pelican -s pelicanconf.py -o ./ content",
-	"git add .",
+	"git add --all ./",
  	$com,
 	"git push -u origin master" 
 );
