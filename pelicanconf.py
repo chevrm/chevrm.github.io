@@ -53,7 +53,7 @@ The model system to study this phenomenon in the <a href='http://currielab.wisc.
 <center>
 <figure>
 <img src="images/antsfig2.png" alt="Leaf-Cutter System">
-<figcaption>Photo: Klassen, J. L. (2014). Microbial secondary metabolites and their impacts on insect symbioses. Current Opinion in Insect Science, 4, 15–22. http://doi.org/10.1016/j.cois.2014.08.004</figcaption>
+<figcaption><font size=9>Photo: Klassen, J. L. (2014). Microbial secondary metabolites and their impacts on insect symbioses. Current Opinion in Insect Science, 4, 15–22. http://doi.org/10.1016/j.cois.2014.08.004</font></figcaption>
 </figure>
 </center>
 <p>
