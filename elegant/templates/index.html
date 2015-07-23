@@ -81,13 +81,13 @@
 		<a class="twitter-timeline"  href="https://twitter.com/wildtypeMC" data-widget-id="494585819835813889">Tweets by @wildtypeMC</a>
 			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 	</div>
-	<script type="text/javascript" src="https://www.google.com/jsapi?autoload={'modules':[{'name':'visualization','version':'1','packages':['timeline']}]}"></script>
-	<script type="text/javascript">
+
+<script type="text/javascript" src="https://www.google.com/jsapi?autoload={'modules':[{'name':'visualization','version':'1.1','packages':['timeline']}]}">
 
 google.setOnLoadCallback(drawChart);
 function drawChart() {
 
-  var container = document.getElementById('example3.1');
+  var container = document.getElementById('timeline');
   var chart = new google.visualization.Timeline(container);
 
   var dataTable = new google.visualization.DataTable();
@@ -98,11 +98,11 @@ function drawChart() {
   dataTable.addRows([
     [ 'School', 'Rensselaer Polytechnic Institute (BSc)', new Date(2004, 9, 1), new Date(2009, 6, 1) ],
     [ 'School', 'SUNY Albany', new Date(2008, 3, 1), new Date(2008, 6, 1) ],
-    [ 'School', 'Rensselaer Polytechnic Institute (BSc)', new Date(2010, 9, 1), new Date(2010, 12, 30) ]]);
+    [ 'School', 'Rensselaer Polytechnic Institute (BSc)', new Date(2010, 9, 1), new Date(2010, 12, 30) ],
     [ 'School', 'Harvard University (MLA)', new Date(2013, 1, 1), new Date(2015, 3, 1) ],
     [ 'School', 'University of Wisconsin-Madison (PhD)', new Date(2015, 9, 1), new Date(2019, 1, 1) ],
     [ 'Industry Lab', 'BCR Biotech', new Date(2009, 6, 1), new Date(2010, 1, 1)],
-    [ 'Industry Lab', 'Broad Institute', new Date(2012, 1, 1), new Date(2013, 3, 1)],
+    [ 'Industry Lab', 'Broad Institute', new Date(2011, 1, 1), new Date(2013, 3, 1)],
     [ 'Industry Lab', 'Warp Drive Bio', new Date(2013, 3, 1), new Date(2015, 8, 1)],
     [ 'Academic Lab', 'Rutledge Lab (RPI)', new Date(2010, 3, 1), new Date(2010, 12, 30)],
     [ 'Academic Lab', 'Maira-Litran Lab (HMS/BWH)', new Date(2013, 1, 1), new Date(2015, 8, 1)],
@@ -112,9 +112,11 @@ function drawChart() {
 
   chart.draw(dataTable);
 }
+
 </script>
 
-<div id="example3.1" style="height: 200px;"></div>
+<div id="timeline" style="height: 380px;"></div>
+
         {% endif %}
     </div>
 
