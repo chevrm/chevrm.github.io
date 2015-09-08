@@ -91,4 +91,8 @@ PROJECTS = [	{'name': 'Twitter',
 		{'name': 'Warp Drive Bio',
 		'url': 'http://www.warpdrivebio.com/',
 		'description': ''},
+		{'name': 'Johnson Biosignatures Lab',
+		'url': 'http://www.johnsonbiosignatureslab.com/',
+		'description': ''},
 ]
+
