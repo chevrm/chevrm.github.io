@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Marc G Chevrette'
 SITENAME = u'Marc Chevrette'
-SITESUBTITLE = u'Mining Secondary Metabolism'
+SITESUBTITLE = u'Mining Chemical Diversity'
 SITEURL = 'http://chevrm.github.io'
 
 PATH = 'content'
@@ -39,8 +39,7 @@ DEFAULT_PAGINATION = 5
 
 LANDING_PAGE_ABOUT = {'title': 'Mining Chemical Diversity', 'details': 
 '''
-<p> I dig around for drugs. </p>
-Bacteria, especially actinomycetes, have a reputation for biosynthesizing chemicals
+<p> Bacteria, especially actinomycetes, have a reputation for biosynthesizing chemicals
 that are of clinical or biotechnological use.  Over half of the drugs approved by the
 FDA in the past decade are of natural origin or are synthetically derived
 from natural scaffolds.  I'm interested in a) computationally mining genome data from
@@ -96,8 +95,9 @@ Ecological- and evolutionary-minded investigations of these and other actinomyce
 avenues for therapeutic discovery and uncovering the evolutionary mechanisms of biosynthesis. </p>
 
 <p> You can find me reliably on <a href='http://twitter.com/wildtypeMC'>twitter</a> and
-<a href='http://www.linkedin.com/in/chevrette'>linkedin</a>.  I have a sporadically active
-<a href='https://github.com/chevrm'>github</a> account, but typically you will have to ask me for my code. 
+<a href='http://www.linkedin.com/in/chevrette'>linkedin</a>.  I have sporadically active
+<a href='https://github.com/chevrm'>github</a> and <a href='https://bitbucket.org/chevrm/'>bitbucket</a> accounts,
+but typically you will have to ask me for my code. 
 Do not be shy!  Feel free to contact me at chevrm (at) gmail (dot) com! </p> 
 
 '''

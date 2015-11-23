@@ -51,7 +51,7 @@
         {% endif %}
         <div class="{{css_class}}">
             <header>
-            <h1 id="about-me">Searching Microbial Genomes for New Drugs</h1>
+            <h1 id="about-me">About me</h1>
             </header>
             <div class="article-content">
                 {{ LANDING_PAGE_ABOUT.details }}
@@ -67,7 +67,7 @@
 	<center><img src="images/Chevrette119crop.jpg" width="25%" height="25%" alt="me"></center>
         <div class="{{css_class}}">
             <header>
-            <h1 id="my-projects">Links</h1>
+            <h1 id="my-projects">Projects</h1>
             </header>
             {% for project in PROJECTS %}
             <ul class="list-all-articles">
@@ -114,6 +114,44 @@
         </div>
     </div>
     {% endif %}
+	<div align="center">
+	<p><p><b>My Timeline</b>
+<script type="text/javascript" src="https://www.google.com/jsapi?autoload={'modules':[{'name':'visualization',
+       'version':'1','packages':['timeline']}]}"></script>
+<script type="text/javascript">
+
+google.setOnLoadCallback(drawChart);
+function drawChart() {
+
+  var container = document.getElementById('timeline');
+  var chart = new google.visualization.Timeline(container);
+
+  var dataTable = new google.visualization.DataTable();
+  dataTable.addColumn({ type: 'string', id: 'Position' });
+  dataTable.addColumn({ type: 'string', id: 'Name' });
+  dataTable.addColumn({ type: 'date', id: 'Start' });
+  dataTable.addColumn({ type: 'date', id: 'End' });
+  dataTable.addRows([
+    [ 'School', 'Rensselaer Polytechnic Institute (BSc)', new Date(2004, 8, 1), new Date(2009, 5, 1) ],
+    [ 'School', 'SUNY Albany', new Date(2008, 2, 1), new Date(2008, 5, 1) ],
+    [ 'School', 'Rensselaer Polytechnic Institute (BSc)', new Date(2010, 8, 1), new Date(2010, 11, 30) ],
+    [ 'School', 'Harvard University (MLA)', new Date(2013, 0, 1), new Date(2015, 2, 1) ],
+    [ 'School', 'University of Wisconsin-Madison (PhD)', new Date(2015, 7, 1), new Date(2015, 9, 1) ],
+    [ 'Industry Lab', 'BCR Biotech', new Date(2009, 5, 1), new Date(2010, 0, 1)],
+    [ 'Industry Lab', 'Broad Institute of MIT & Harvard', new Date(2011, 0, 1), new Date(2013, 3, 1)],
+    [ 'Industry Lab', 'Warp Drive Bio', new Date(2013, 3, 1), new Date(2015, 7, 1)],
+    [ 'Academic Lab', 'Rutledge Molecular Genetics Lab (RPI)', new Date(2010, 2, 1), new Date(2010, 11, 30)],
+    [ 'Academic Lab', 'Maira-Litran Infectious Disease Lab (HMS/BWH)', new Date(2013, 2, 1), new Date(2015, 7, 1)],
+    [ 'Academic Lab', 'Johnson Biosignatures Lab (Harvard/Georgetown)', new Date(2013, 9, 1), new Date(2015, 9, 1)],
+    [ 'Academic Lab', 'Currie Lab (UW-Madison)', new Date(2015, 7, 1), new Date(2015, 9, 1)],
+  ]);
+
+  chart.draw(dataTable);
+}
+
+</script>
+
+<div id="timeline" style="height: 380px;"></div>
 
 	<script type="text/javascript" src="http://counter8.bestfreecounterstat.com/private/counter.js?c=aec250b175c76a0c0527de8244d0f4bc"></script>
 	</div>
