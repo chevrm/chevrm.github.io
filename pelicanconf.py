@@ -75,9 +75,8 @@ relationship in which the ants have become coated with actinomycetes that can sy
 compounds to protect against bad, nasty organisms trying to steal their food.  Today, the
 actinobacterial strains that coat these ants are specific to a given colony. </p>
 
-<center> <figure> <img src="images/antsfig2.png" alt="Leaf-Cutter System"> <figcaption><font 
-size="3">Photo: Klassen, J. L. (2014). Microbial secondary metabolites and their impacts on insect symbioses. Current Opinion 
-in Insect Science, 4, 15–22. http://doi.org/10.1016/j.cois.2014.08.004</font></figcaption> </figure> </center>
+<center> <figure> <img src="images/mut.jpg" alt="Leaf-Cutter System"> <figcaption><font 
+size="3">Photo: Currie Lab</font></figcaption> </figure> </center>
 
 <p> These bacteria are be highly prolific in specialized metabolite capability and are variable
 in their biosynthetic gene cluster content over space and evolutionary time.  Our hypothesis is
@@ -85,6 +84,9 @@ that not only can these actinomycetes provide anti-biotic and anti-fungal protec
 cultivar, they may be a prolific discovery avenue for compounds of human therapeutic and biotechnological
 use.  Furthermore, this is an ideal system to study the evolution of specificity of arms-race between
 invading pathogens and the actinobacteria. </p>
+
+<center> <figure> <img src="images/struct.jpg" alt="Structures and Activities of Insect-associated Compounds">
+<figcaption><font size="3">Photo: Currie Lab</font></figcaption> </figure> </center>
 
 <p> The likelihood of a gene cluster under high selective pressure to hit a eukaryotically conserved
 target (and thus a medically relevant target) is relatively high when you consider that millions of
