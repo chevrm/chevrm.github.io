@@ -40,11 +40,11 @@ DEFAULT_PAGINATION = 5
 LANDING_PAGE_ABOUT = {'title': 'Mining Chemical Diversity', 'details': 
 '''
 <p> Bacteria, especially actinomycetes, have a reputation for biosynthesizing chemicals
-that are of clinical or biotechnological use.  Over half of the drugs approved by the
-FDA in the past decade are of natural origin or are synthetically derived
-from natural scaffolds.  I'm interested in a) computationally mining genome data from
-these bacteria to find novel biosynthetic gene clusters (and predict their chemical
-products), b) understanding the evolutionary histories and trajectories of these compounds 
+that are of high clinical or biotechnological value.  Over half of the drugs approved by the
+FDA in the past decade are of natural origin or are synthetically derived from natural
+scaffolds.  I'm interested in a) developing computational tools to mine genome data from
+these bacteria to find novel biosynthetic gene clusters and predict their chemical
+products, b) understanding the evolutionary histories and trajectories of these compounds 
 to inform discovery stradegies, and c) developing methods of engineering the gene
 content of these clusters towards generating even more chemical diversity. </p>
 
@@ -54,7 +54,7 @@ bacterial genome database in history to exploit gene cluster diversity for the d
 of novel therapeutics and exciting biosynthesis.  I joined
 <a href='http://www.genetics.wisc.edu/'>UW-Madison Genetics</a> in 08/2015 as a member of
 <a href='http://currielab.wisc.edu/'>Cameron Currie's lab</a> to continue my research on
-specialized metabolites, their evolution, their role in nature, and the possibility of
+specialized metabolites, their role in nature, and the possibility of
 enrichment for novel compounds of therapeutic use.  I take an evolutionary approach to
 probe the chemical diversity of polyketide and non-ribosomal peptide gene clusters in many
 systems, including our model system of symbiosis. </p>
@@ -63,27 +63,27 @@ systems, including our model system of symbiosis. </p>
 biosynthesis has two major consequences.  First, it offers a rational prioritization framework
 for isolation of strains enriched in novel biosynthetic potential. Second, it leads to
 testable hypotheses about the natural roles of natural products.  Uncovering the role these 
-molecules play in mediating ecological and evolutionarily-derived interations will offer huge
-insights for optimizing natural product drug discovery. </p>
+molecules play in mediating ecological interations will offer huge insights for optimizing
+natural product drug discovery. </p>
 
 <p> The model system to study this phenomenon in the
 <a href='http://currielab.wisc.edu/'>Currie Lab</a> is nothing short of fascinating.  Certain
 ants are farmers.  These ants farm (and later eat) a fungus, which is highly rich in nutrients.
 Like human farmers, the ants have been faced with the challenge of pathogenic decimation of their
-"crop".  To circumvent this challenge, millions of years evolution has selected for a symbiotic
-relationship in which the ants have become coated with actinomycetes that can synthesize chemical
-compounds to protect against bad, nasty organisms trying to steal their food.  Today, the
-actinobacterial strains that coat these ants are specific to a given colony. </p>
+"crop".  To circumvent this challenge, millions of years of coevolution has resulted in a symbiotic
+relationship between the ants and actinomycete bacteria that coat their bodies.  These bacteria can
+synthesize chemical compounds that protect against bad, nasty organisms trying to steal the ant's food.
+Today, the actinobacterial strains that coat these ants are specific to a given colony. </p>
 
 <center> <figure> <img src="images/mut.jpg" alt="Leaf-Cutter System"> <figcaption><font 
 size="3">Photo: Currie Lab</font></figcaption> </figure> </center>
 
-<p> These bacteria are be highly prolific in specialized metabolite capability and are variable
+<p> These bacteria are both highly prolific in specialized metabolite capability and are variable
 in their biosynthetic gene cluster content over space and evolutionary time.  Our hypothesis is
-that not only can these actinomycetes provide anti-biotic and anti-fungal protection of the ant's
+that not only can these actinomycetes provide antibiotic and antifungal protection of the ant's
 cultivar, they may be a prolific discovery avenue for compounds of human therapeutic and biotechnological
-use.  Furthermore, this is an ideal system to study the evolution of specificity of arms-race between
-invading pathogens and the actinobacteria. </p>
+use.  Furthermore, this is an ideal system to study the coevolution of interaction specificity
+between the invading pathogen(s) and the actinobacteria. </p>
 
 <center> <figure> <img src="images/struct.jpg" alt="Structures and Activities of Insect-associated Compounds">
 <figcaption><font size="3">Photo: Currie Lab</font></figcaption> </figure> </center>
@@ -92,7 +92,7 @@ invading pathogens and the actinobacteria. </p>
 target (and thus a medically relevant target) is relatively high when you consider that millions of
 years of selective evolution are on our side.  Nature is spending a lot of energy to make these
 molecules, so it follows that they must be making them for a biological reason.  In a variety of
-collaborations we hope to prove exactly that while uncovering the evolutionary mechanisms of biosynthesis.
+collaborations we hope to prove exactly this while uncovering the evolutionary mechanisms of biosynthesis.
 Ecological- and evolutionary-minded investigations of these and other actinomycetes promise exciting
 avenues for therapeutic discovery and uncovering the evolutionary mechanisms of biosynthesis. </p>
 
