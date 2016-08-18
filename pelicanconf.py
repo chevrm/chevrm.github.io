@@ -52,12 +52,13 @@ content of these clusters towards generating even more chemical diversity. </p>
 <a href='http://www.warpdrivebio.com'>Warp Drive Bio</a>, which has built the largest
 bacterial genome database in history to exploit gene cluster diversity for the discovery
 of novel therapeutics and exciting biosynthesis.  I joined
-<a href='http://www.genetics.wisc.edu/'>UW-Madison Genetics</a> in 08/2015 as a member of
+<a href='http://www.genetics.wisc.edu/'>UW-Madison Genetics</a> in 2015 as a member of
 <a href='http://currielab.wisc.edu/'>Cameron Currie's lab</a> to continue my research on
 specialized metabolites, their role in nature, and the possibility of
-enrichment for novel compounds of therapeutic use.  I take an evolutionary approach to
-probe the chemical diversity of polyketide and non-ribosomal peptide gene clusters in many
-systems, including our model system of symbiosis. </p>
+enrichment for novel compounds of therapeutic use.  As a
+<a href='https://biochem.wisc.edu/cbit'>Chemistry-Biology Interface</a> Predoctoral Fellow,
+I take an evolutionary approach to probe the chemical diversity of polyketide and non-ribosomal
+peptide gene clusters in many systems, including our model system of symbiosis. </p>
 
 <p> Working towards an understanding of the evolutionary underpinnings of natural product
 biosynthesis has two major consequences.  First, it offers a rational prioritization framework
@@ -105,24 +106,24 @@ Do not be shy!  Feel free to contact me at chevrm (at) gmail (dot) com! </p>
 '''
 }
 
-PROJECTS = [	{'name': 'Twitter',
-		'url': 'http://twitter.com/wildtypeMC',
-		'description': ''},
-		{'name': 'LinkedIn',
-		'url': 'http://www.linkedin.com/in/chevrette',
-		'description': ''},
+PROJECTS = [	#{'name': 'Twitter',
+		#'url': 'http://twitter.com/wildtypeMC',
+		#'description': ''},
+		#{'name': 'LinkedIn',
+		#'url': 'http://www.linkedin.com/in/chevrette',
+		#'description': ''},
 		#{'name': 'CV',
                 #'url': 'https://github.com/chevrm/cv/raw/master/ChevretteCV.pdf',
                 #'description': 'PDF download of my CV.'},
 		#{'name': 'Google Scholar',
 		#'url': 'https://scholar.google.com/citations?user=VX3Laf8AAAAJ&hl=en',
 		#'description': 'Links to my publications.'},
-		{'name': 'Bio - Currie Lab',
-		'url': 'https://currielab.wisc.edu/bio.php?id=Marc+Chevrette',
-		'description': ''},
-		{'name': 'Video: Leaf-Cutter Ants',
-		'url': 'https://www.youtube.com/watch?v=Xxnmh4IDYaU',
-		'description': 'A brief video from the NSF outlining major areas of research in the Currie Lab.'},
+		#{'name': 'Bio - Currie Lab',
+		#'url': 'https://currielab.wisc.edu/bio.php?id=Marc+Chevrette',
+		#'description': ''},
+		#{'name': 'Video: Leaf-Cutter Ants',
+		#'url': 'https://www.youtube.com/watch?v=Xxnmh4IDYaU',
+		#'description': 'A brief video from the NSF outlining major areas of research in the Currie Lab.'},
 		{'name': 'Currie Lab Homepage',
 		'url': 'http://currielab.wisc.edu/',
 		'description': ''},
