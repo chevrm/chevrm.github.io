@@ -25,6 +25,8 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Currie Lab', 'http://currielab.wisc.edu/'),
+         ('WiSolve Consulting Group', 'http://www.wisolve.org/'),
+         ('ComBEE Wisconsin', 'https://sites.google.com/a/wisc.edu/combee/home'),
          ('Wisconsin Genetics', 'http://www.genetics.wisc.edu/'),
          ('Warp Drive', 'http://www.warpdrivebio.com'),)
 
