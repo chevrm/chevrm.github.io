@@ -25,9 +25,6 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Currie Lab', 'http://currielab.wisc.edu/'),
-         ('WiSolve Consulting Group', 'http://www.wisolve.org/'),
-         ('ComBEE Wisconsin', 'https://sites.google.com/a/wisc.edu/combee/home'),
-         ('Wisconsin Genetics', 'http://www.genetics.wisc.edu/'),
          ('Warp Drive', 'http://www.warpdrivebio.com'),)
 
 # Social widget
@@ -129,6 +126,15 @@ PROJECTS = [	#{'name': 'Twitter',
 		{'name': 'Currie Lab Homepage',
 		'url': 'http://currielab.wisc.edu/',
 		'description': ''},
+                {'name': 'WiSolve Consulting Group',
+		'url': 'http://www.wisolve.org/',
+		'description': ''},
+                {'name': 'ComBEE UW',
+		'url': 'https://sites.google.com/a/wisc.edu/combee/home',
+		 'description': ''},
+                {'name': 'UW Genetics',
+		'url': 'http://www.genetics.wisc.edu/',
+		 'description': ''},
 		{'name': 'Warp Drive Bio',
 		'url': 'http://www.warpdrivebio.com/',
 		'description': ''},
@@ -136,4 +142,3 @@ PROJECTS = [	#{'name': 'Twitter',
 		'url': 'http://www.johnsonbiosignatureslab.com/',
 		'description': ''},
 ]
-
